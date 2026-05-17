@@ -309,7 +309,7 @@ GPL v2 (same as Linux kernel)
 
 ## Author
 
-Sai Charan Jakkula
+Gowhith Gandem
 
 ## Contributing
 
