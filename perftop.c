@@ -14,7 +14,7 @@
 #include <linux/rbtree.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Sai Charan Jakkula");
+MODULE_AUTHOR("Gowhith Gandem");
 MODULE_DESCRIPTION("CPU Profiler");
 
 #define FUNCTION_NAME_LENGTH 20
