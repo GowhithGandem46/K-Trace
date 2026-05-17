@@ -24,7 +24,7 @@
 #include <linux/smp.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Sai Charan Jakkula");
+MODULE_AUTHOR("Gowhith Gandem");
 MODULE_DESCRIPTION("Research-Grade Multi-Core CPU Profiler");
 
 /* Configuration */
